@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background: #EEE;
+}
+
+label > * {
+  display: block;
+  margin-top: 0.5em;
+}
+
+label > select {
+  width: 100%;
+}
+
+ul {
+  font-size: 0.75em;
+}
+
+li {
+  margin-top: 1em;
+}
+
+.app__container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+}
+
+.app__section {
+  margin-top: 2rem;
+}
