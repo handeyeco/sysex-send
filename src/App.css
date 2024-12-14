@@ -34,3 +34,10 @@ li {
 .app__section {
   margin-top: 2rem;
 }
+
+ a:link,
+ a:visited,
+ a:hover,
+ a:active {
+  color: steelblue;
+} 

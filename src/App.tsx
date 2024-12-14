@@ -58,6 +58,7 @@ function App() {
   return (
     <div className="app__container">
       <h1>SysEx Send</h1>
+      <p>by <a href="https://h-e.io/">handeyeco</a></p>
       <p>A web application for sending MIDI system exclusive (SysEx) messages to devices.</p>
       <ol>
         <li>Chrome is recommended, not all browsers implement Web MIDI</li>
